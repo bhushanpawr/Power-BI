@@ -1,4 +1,5 @@
-# Pizza Sales Model
+# DASHBOARD
+![Screenshot (84)](https://user-images.githubusercontent.com/113659167/209840184-73bc0cd1-e1ca-4f0b-9dc2-9a3f9625b8a9.png)
 
 About Dataset
 
