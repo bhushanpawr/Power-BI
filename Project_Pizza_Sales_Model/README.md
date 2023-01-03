@@ -64,3 +64,22 @@ unless another sauce is specified)
 
 **Pizza Name-**
 Name of the pizza as shown in the menu
+
+## 
+
+Here i get a busiest time of the day by taking quantity and time of order and then plot it in a line chart.
+
+conclusion of this visual is the time of a day at most pizza's are ordered around 13:00 and second peak of the day is between 17:00 to 19:00
+![image](https://user-images.githubusercontent.com/113659167/210393907-99325320-693f-46fe-8207-34f310abff73.png)
+
+##
+
+In this visual i get a busiest day of the week by taking day-name and quantity of order. so i have created a new measure on order date column called "month name" by using **Day = FORMAT('Table'[order_date],"dddd")** this DAX formula.
+
+Conclusion is that more pizza are ordered on Friday followed by Thursday and Saturday for the year.
+
+![image](https://user-images.githubusercontent.com/113659167/210399196-9680c6ea-eaad-4034-beaa-dc5bb4acaf30.png)
+
+##
+
+
