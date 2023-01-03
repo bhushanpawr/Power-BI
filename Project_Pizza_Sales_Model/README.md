@@ -1,6 +1,20 @@
 # DASHBOARD
 ![Screenshot (84)](https://user-images.githubusercontent.com/113659167/209840184-73bc0cd1-e1ca-4f0b-9dc2-9a3f9625b8a9.png)
 
+To find opportunities to increase sales and improve productivity, we have analysed the data in this PowerBI project and created a dashboard. At Plato's, things are going alright, but they could be better. For the past year, we have been gathering transactional data,  but really haven't been able to put it to good use.
+
+Here are some questions that we solved in this project:
+
+Q1 What days and times do we tend to be busiest?
+
+Q2 How many pizzas are we making during peak periods?
+
+Q3 What are our best and worst-selling pizzas?
+
+Q4 What's our average order price?
+
+Q5 What is the sales by category
+
 ### About Dataset
 
 This dataset contain 12 columns are as below:
