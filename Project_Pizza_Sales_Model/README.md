@@ -1,7 +1,7 @@
 # DASHBOARD
-![Screenshot (84)](https://user-images.githubusercontent.com/113659167/209840184-73bc0cd1-e1ca-4f0b-9dc2-9a3f9625b8a9.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/113659167/210982087-12c9d710-3916-4486-92ea-260575efc54a.png)
 
-To find opportunities to increase sales and improve productivity, we have analysed the data in this PowerBI project and created a dashboard. At Plato's, things are going alright, but they could be better. For the past year, we have been gathering transactional data,  but really haven't been able to put it to good use.
+To find opportunities to increase sales and improve productivity, we have analysed the data in this PowerBI project and created a dashboard. At Plato's, things are going alright, but they could be better. For the past year, we have been gathering transactional data,  but really haven't been able to put it to good use.
 
 Here are some questions that we solved in this project:
 
